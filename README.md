@@ -1,7 +1,6 @@
 <h1 align="center">Hello there, I'm Alexi</h1>
 
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=alexioficial&show_icons=true&theme=bear" width = 400>
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=alexioficial&theme=dark&hide_border=true" width = 400>
 </p>
 
