@@ -5,7 +5,7 @@
 </p>
 
 <div align = "center">
-  <strong>Languages that I use</strong>
+  <strong>Languages and tools</strong>
   <br>
   <code><img style="height: 20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
   <code><img style="height: 20px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png"></code>
